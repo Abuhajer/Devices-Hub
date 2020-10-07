@@ -1,0 +1,77 @@
+body{
+
+    background-image: url("/img/background.jpg");
+    background-size: cover;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+header{
+    background-color: gray;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    position: relative;
+    top: -35px;
+}
+
+header h1{
+    text-align: center;
+    padding: 20px;
+    color: white;
+    font-size: 50px;
+}
+#formSection{ 
+height: 300px;
+width: 250px;
+padding: 20px;
+background-color: gray;
+text-align: center;
+position: relative;
+left: 100px;
+opacity: 0.6;
+border-radius: 20px;
+
+}
+
+#form{
+    padding-bottom: 20px;
+    text-align: center;
+
+}
+
+
+form label{
+display: block;
+padding-top: 20px;
+padding-bottom: 5px;
+color: black;
+font-size: 20px;
+}
+
+form input,select{
+display:inline-block;
+text-align: center;
+width: 150px;
+}
+
+
+
+#tableSection{
+width: 66%px;
+position: relative;
+background-color: gray;
+opacity: 0.6;
+left :500px;
+padding: 50px;
+margin: 50px;
+bottom :400px;
+}
+
+
+table {
+text-align: center;
+
+
+}
